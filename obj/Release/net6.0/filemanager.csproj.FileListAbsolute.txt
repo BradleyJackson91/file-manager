@@ -1,0 +1,15 @@
+C:\Source\filemanager\bin\Release\net6.0\filemanager.exe
+C:\Source\filemanager\bin\Release\net6.0\filemanager.deps.json
+C:\Source\filemanager\bin\Release\net6.0\filemanager.runtimeconfig.json
+C:\Source\filemanager\bin\Release\net6.0\filemanager.dll
+C:\Source\filemanager\bin\Release\net6.0\filemanager.pdb
+C:\Source\filemanager\obj\Release\net6.0\filemanager.csproj.AssemblyReference.cache
+C:\Source\filemanager\obj\Release\net6.0\filemanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\filemanager\obj\Release\net6.0\filemanager.AssemblyInfoInputs.cache
+C:\Source\filemanager\obj\Release\net6.0\filemanager.AssemblyInfo.cs
+C:\Source\filemanager\obj\Release\net6.0\filemanager.csproj.CoreCompileInputs.cache
+C:\Source\filemanager\obj\Release\net6.0\filemanager.dll
+C:\Source\filemanager\obj\Release\net6.0\refint\filemanager.dll
+C:\Source\filemanager\obj\Release\net6.0\filemanager.pdb
+C:\Source\filemanager\obj\Release\net6.0\filemanager.genruntimeconfig.cache
+C:\Source\filemanager\obj\Release\net6.0\ref\filemanager.dll
